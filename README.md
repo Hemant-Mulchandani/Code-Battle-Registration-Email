@@ -1,4 +1,4 @@
-# [Code-Battle-Registration-Mail](https://hemant-mulchandani.github.io/Code-Battle-Registration-Email/)
+# [Code-Battle-Registration-Email](https://hemant-mulchandani.github.io/Code-Battle-Registration-Email/)
 
   Visit to live Interact : 
 
