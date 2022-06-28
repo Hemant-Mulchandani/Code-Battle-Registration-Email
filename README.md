@@ -9,4 +9,4 @@
 
 # 📌 Visit to live Interact : 🔗
 
- https://hemant-mulchandani.github.io/Code-Battle-Registration-Email/ 
+ https://Hemant-mulchandani.github.io/Code-Battle-Registration-Email/ 
