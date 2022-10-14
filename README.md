@@ -1,6 +1,6 @@
 # [⚔️ Code Battle Registration Email 📬](https://hemant-mulchandani.github.io/Code-Battle-Registration-Email/)
 
-  📌 Visit to live Interact : 🔗
+### 📌 Visit to live Interact : 🔗
 
   https://Hemant-Mulchandani.github.io/Code-Battle-Registration-Email/ 
 
@@ -10,6 +10,6 @@
   ![Email Screenshot](Code%20Battle%20Registration%20Mail%20Capture.png)
   -->  
 
-# 📌 Visit to live Interact : 🔗
+## 📌 Visit to live Interact : 🔗
 
  https://Hemant-Mulchandani.github.io/Code-Battle-Registration-Email/ 
